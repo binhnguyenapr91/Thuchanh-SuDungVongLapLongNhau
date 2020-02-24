@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92ea4640-3928-4d36-8183-04944e02110f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/this.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/this.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/this.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +49,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582526371590</updated>
-      <workItem from="1582526372693" duration="2123000" />
+      <workItem from="1582526372693" duration="2271000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1582528503939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582528503939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="494" y="83" key="CommitChangelistDialog2" timestamp="1582528503895">
+      <screen x="51" y="24" width="1869" height="1056" />
+    </state>
+    <state x="494" y="83" key="CommitChangelistDialog2/51.24.1869.1056@51.24.1869.1056" timestamp="1582528503895" />
+    <state x="585" y="275" key="Vcs.Push.Dialog.v2" timestamp="1582528510439">
+      <screen x="51" y="24" width="1869" height="1056" />
+    </state>
+    <state x="585" y="275" key="Vcs.Push.Dialog.v2/51.24.1869.1056@51.24.1869.1056" timestamp="1582528510439" />
     <state x="648" y="246" key="run.anything.popup" timestamp="1582527612426">
       <screen x="51" y="24" width="1869" height="1056" />
     </state>
